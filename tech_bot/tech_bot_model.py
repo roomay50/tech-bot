@@ -20,3 +20,4 @@ fiting = model.fit(np.array(X), np.array(y), epochs=200, batch_size=5, verbose=1
 model.save('tech_bot_model.py.h5', fiting)
 
 print("model created")
+

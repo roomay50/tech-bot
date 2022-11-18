@@ -35,7 +35,7 @@ for intent in intents['intents']:
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
 
-# lemmatizing the words list, amd putting it in lower case
+#lemmatizing the words list, amd putting it in lower case
 words = [lemmatizer.lemmatize((tokenized_word.lower()))
          for tokenized_word in words if tokenized_word not in ignore_words]
 

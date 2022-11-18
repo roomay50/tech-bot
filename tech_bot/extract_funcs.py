@@ -67,3 +67,4 @@ def techbot_response(msg):
     ints = predict_class(msg, model)
     response = get_response(ints, intents)
     return response
+

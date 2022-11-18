@@ -3,7 +3,7 @@ from extract_funcs import techbot_response
 
 
 def send():
-    msg = EntryBox.get("1.0", 'end-1c').strip()
+    msg =EntryBox.get("1.0", 'end-1c').strip()
     EntryBox.delete("0.0", END)
 
     if msg != '':

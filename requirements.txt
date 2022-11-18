@@ -25,4 +25,3 @@ zipp==3.9.0
 
 #python version#
 python 3.7.9
-

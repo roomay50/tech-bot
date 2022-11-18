@@ -1,7 +1,7 @@
 {"intents": [
   {"tag": "greeting",
   "patterns": ["Hi","Hey","Hello", "What's up","Hola", "Howdy", "Good morning", "Good afternoon", "Good evening", "Hi there", "Is anyone there"],
-  "responses": ["Hi","Hey","Hello", "What's up","Hola", "Howdy", "Good morning", "Good afternoon", "Good evening", "Hi there"]
+  "responses": ["Hi","Hey","Hello", "What's up","Hola", "Howdy", "Good day", "Hi there"]
   },
   {"tag": "goodbye",
     "patterns": ["Bye", "See ya", "Goodbye", "See you later", "Later", "Have a good day"],
