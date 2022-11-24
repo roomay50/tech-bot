@@ -30,7 +30,7 @@
       "From the simplest to the most complicated, from phones to laptops and anything else you can think of, I will inform you about the latest technological devices.",
       "It is my goal to provide you with information about the latest technological devices, from the simplest to the most complex, phones, laptops, etc."]
   },
-  {"tag":  "FAQ about phones",
+  {"tag":  "all mobile phones",
     "patterns": ["What phone brands do you know", "What phone models do you know", "What Makes of phones do you know"],
     "responses": ["ACER, ALCATEL, ALLVIEW, AMAZON, AMOI, Apple, ARCHOS, ASUS, AT&T\n\nBENEFON, BENQ, BENQ-SIEMENS, BIRD, BLACKBERRY, BLACKVIEW, BLU, BOSCH, BQ\n\nCASIO, CAT, CELKON, CHEA, COOLPAD\n\nDELL, DOOGEE\n\nEMPORIA, ENERGIZER, ERICSSON, ETEN\n\nFAIRPHONE, FUJITSU SIEMENS\n\nGARMIN-ASUS, GIGABYTE, GIONEE, GOOGLE\n\nHAIER, HONOR, HP, HTC,HUAWEI\n\nI-MATE, I-MOBILE, ICEMOBILE, INFINIX, INNOSTREAM, INQ, INTEX\n\nJOLLA\n\nKARBONN, KYOCERA\n\nLAVA, LEECO, LENOVO, LG\n\nMAXON, MAXWEST, MEIZU, MICROMAX, MICROSOFT, MITAC,MITSUBISHI, MODU, MOTOROLA, MWG\n\nNEC, NEONODE, NIU, NOKIA, NOTHING, NVIDIA\n\nO2, ONEPLUS, OPPO, ORANGE\n\nPALM, PANASONIC, PANTECH, PARLA, PHILiPS, PLUM, POSH, PRESTIGIO\n\nQMOBILE, QTEK\n\nRAZER, REALME\n\nSAGEM, SAMSUNG, SENDO, SEWON, SHARP, SIEMENS, SONIM, SONY, SONY ERICSSON, SPICE\n\nT-MOBILE, TCL, TECNO, TEL.ME., TELIT, THURAYA, TOSHIBA\n\nULEFONE, UNNECTO\n\nVERTU, VERYKOOL, VIVO, VK MOBILE, VODAFONE\n\nWIKO, WND\n\nXCUTE, XIAOMI, XOLO\n\nYEZZ, YOTA, YU\n\nZTE"]
  },
