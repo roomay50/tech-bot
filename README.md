@@ -10,3 +10,8 @@ This project contains The following:
 * extract_funcs.py: This file contains functions that can extract specific information from the main.py file and other files in the project. These functions are also used  to introduce data into the  tech_bot gui.
 * techbot_gui.py: This contains the code for the gui app built with tkinter. It is the users interface.
 * reruirements.txt: This is a text file that contains all the libraries installed, and required for the project to work
+
+## How to install and use tech-bot:
+*1. clone this project: git clone ...
+*2. install the requirements: pip install -r requirements.txt
+*3. 
