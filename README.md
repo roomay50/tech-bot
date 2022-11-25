@@ -13,17 +13,27 @@ This project contains The following:
 * reruirements.txt: This is a text file that contains all the libraries installed, and required for the project to work
 
 ## How to install and use tech-bot:
-1. clone this project: git clone ...
-2. install the requirements: pip install -r requirements.txt
-3. navigate to the tech_bot directory and run the files in the directory following this order:
+### clone this project: 
+git clone https://github.com/roomay50/tech-bot.git 
 
-first run the main.py file followed by tech_bot_model.py and extract_funcs.py file
-finaly run techbot_gui.py.
-after the last file is run, a user interface pops up for you to interact with the bot
+### install the requirements:
+```
+pip install -r requirements.txt
+```
+
+### Navigate to the tech_bot directory and run the files in the directory following this order:
+```
+python main.py
+python tech_bot_model.py
+python extract_funcs.py
+python techbot_gui.py
+```
+
+### After the last file is run, a user interface pops up for you to interact with the bot
 
 ## Contributors expectations
 
-Imagine if you had just one place where you could get all the specific information you want about any technological gadgets without going through the stress of surfing for info on the internet. I think that solution would be tech-bot. tech-bot is a chat bot desinged not only to tell you about phones its goal is to tell you about every gadget cuilt with, and related to technology. If you are interested in contributing to this project you're free to do so. Together we can make this idea a reality.
+Imagine if you had just one place where you could get all the specific information you want about any technological gadgets without going through the stress of surfing for info on the internet. I think that solution would be tech-bot. tech-bot is a chat bot designed not only to tell you about phones its goal is to tell you about every gadget cuilt with, and related to technology. If you are interested in contributing to this project you're free to do so. Together we can make this idea a reality.
 
 ## Find a bug
 
